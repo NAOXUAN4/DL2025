@@ -1,0 +1,9 @@
+{
+    "batch_Size": "32",
+    "epochs": "100",
+    "lr": "0.001",
+
+    "input_size": "6",
+    "hidden_size": "8",
+    "output_size": "1"
+}
