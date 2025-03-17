@@ -1,11 +1,11 @@
 {
     "batch_Size": "32",
     "epochs": "300",
-    "lr": "0.001",
+    "lr": ["0.0001","0.001","0.01","0.1"],
 
     "input_size": "6",
     "hidden_size": "16",
     "output_size": "1",
 
-    "patience": "20"
+    "patience": "20000"
 }
